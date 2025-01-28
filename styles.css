@@ -566,6 +566,6 @@ font-size: 1.3rem;
         width:100%;
     }
     .popup {
-        width: 77%;
+         width: 77%!important;
     }
 }
