@@ -582,4 +582,7 @@ font-size: 1.3rem;
     right: 0px;
     padding: 0.9rem 2rem;
 }
+    .artwork-frame {
+    width: 100%;
+    }
 }
